@@ -1,0 +1,18 @@
+# Virtual environments
+tf_env/
+app_env/  
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO outputs
+runs/
+
+# Large model files (optional but recommended)
+*.pt
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
