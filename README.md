@@ -1,1 +1,0 @@
-# Aerial-Object-Classifiction-and-Detection
