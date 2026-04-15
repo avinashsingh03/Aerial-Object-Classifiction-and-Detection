@@ -16,3 +16,7 @@ runs/
 # OS files
 .DS_Store
 Thumbs.db
+
+#dataset
+classification_dataset/
+detection_dataset/
