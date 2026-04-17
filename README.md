@@ -1,6 +1,6 @@
 # Bird vs Drone Detection and Classification
 
-#### Aim : To develop a deep learning-based solution that can classify aerial images into two categories Bird or Drone and optionally perform object detection (YOLO) to locate and label these objects in real-world scenes.
+#### Aim : To develop a deep learning-based solution that can classify aerial images into two categories Bird or Drone and optionally perform object detection (YOLO) to locate and label these objects in real-world scenes. Docs Link: https://docs.google.com/document/d/1_jRT591cgpl5CP1yDkeT1zT2o55Sdxg-/edit?usp=drive_link&ouid=102208284980607261162&rtpof=true&sd=true
 
 ## Project Takeaways:
 - Deep Learning
